@@ -1,0 +1,70 @@
+body {
+    background-image: url('image.jpg'); 
+}
+
+.top-div {
+    background-color: orange; 
+    width: 600px; 
+    height: 120px;
+    margin: auto;
+    margin-top: 50px; 
+    border-radius: 10px;
+    position: relative;
+}
+
+.input-field {
+    align-self: center; 
+    border: solid aqua 2px;
+    border-radius: 10px; 
+    width: 300px;
+    height: 40px;
+    margin-left: 10px; 
+}
+
+.circle {
+    align-self: center;
+    margin-left: 10px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%; 
+}
+
+.aqua{
+    background-color: aqua; 
+}
+
+.fas {
+    color: white; 
+}
+
+.info {
+    background: red; 
+    width: 180px; 
+    height: 80px;
+    position: absolute;
+    left: 420px;
+    border-bottom-left-radius: 10px; 
+    border-top-right-radius: 10px;
+}
+
+
+/* tasks styles */
+
+.task {
+    background-color: white;
+    width: 600px; 
+    height: 70px;
+    margin: auto;
+    margin-top: 50px; 
+    border-radius: 10px;
+    border: solid aqua 2px;
+}
+
+.red {
+    background-color: red; 
+}
+
+.task-input {
+    width: 350px;
+    height: 30px;
+}
